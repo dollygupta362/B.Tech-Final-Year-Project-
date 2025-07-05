@@ -1,6 +1,6 @@
 <h1 align="center"><strong>💬 EliteMeet – A Video Chatting App</strong></h1>
 
-A full-stack MERN application enabling secure, real-time 1:1 video chatting with user authentication, built-in signaling, and a responsive UI — designed for seamless virtual meetups and language exchange.
+An embedded automation and safety project designed to minimize human errors and accidents at railway level crossings through a fully automatic, sensor-driven gate control mechanism using Arduino.
 
 ---
 
@@ -80,32 +80,33 @@ EliteMeet enhances how users connect remotely, especially those seeking **langua
 | 📁 `Presentation/`            | Presentation files in PPTX and PDF format    |
 | ├── 📄 `EliteMeet - A Video Chatting App.pptx` | Slide deck (editable)       |
 | └── 📄 `EliteMeet - A Video Chatting App.pdf`  | Slide deck (print version) |
-| 📁 `Project/`                 | Source code of application                   |
+| 📁 `Project Codes/`           | Source code of application                   |
 | ├── 📁 `Frontend/`            | React-based client application               |
 | └── 📁 `Backend/`             | Node/Express server code                     |
 | 📁 `Project Images/`          | Screenshots and app UI images                |
 | └── 📄 `Image 1.png` – `Image 16.png` | UI illustrations                  |
 | 📁 `Testing Video/`           | Application working video                    |
 | └── 📄 `Video 1.mp4`          | Recorded demo session                        |
+| 📄 `README.md`                | This documentation file                      |
 
 ---
 
 ## 📽️ Demonstration
 
-You can explore the hosted project through the deployment link under Live Demo foder named:
-'Project Link.txt`  
+You can explore the hosted project through the deployment link under Live Demo folder named:  
+`Project Link.txt`  
 This includes a fully functional live app. You may test login, authentication, and initiate a call in two tabs or separate devices.
 
 ---
 
 ## 🔐 Features
 
-- 🔒 Secure Login/Register using JWT
-- 🎥 Real-Time Peer-to-Peer Video Calling
-- 💬 Signaling via Socket.IO
-- 🎯 Language-Exchange Oriented UI
-- 🌐 Deployed on public hosting platforms
-- 📱 Responsive layout for all screen sizes
+- 🔒 Secure Login/Register using JWT  
+- 🎥 Real-Time Peer-to-Peer Video Calling  
+- 💬 Signaling via Socket.IO  
+- 🎯 Language-Exchange Oriented UI  
+- 🌐 Deployed on public hosting platforms  
+- 📱 Responsive layout for all screen sizes  
 
 ---
 
@@ -124,79 +125,63 @@ npm start
 cd ../Backend
 npm install
 node server.js
+```
 
 ---
 
----
+## 📄 **Project Approval Certificate**
 
-## 🚀 Future Scope
-
-EliteMeet lays the groundwork for more advanced communication systems. Some potential future enhancements include:
-
-- 👥 Group video conferencing support
-- 💬 In-call text chat functionality
-- 📺 Screen sharing and session recording
-- 🌐 OAuth integration (Google, GitHub, etc.)
-- 📅 Meeting scheduler with calendar integration
-- 🌍 AI-based language detection for pairing users
-- 📱 Mobile app development using React Native or Flutter
-- ☁️ Deployment on scalable cloud platforms (e.g., AWS, Azure)
-
----
-
-## 📄 Project Approval Certificate
-
-This project was officially approved and submitted as a part of the final year B.Tech requirement at  
+This project was officially approved and submitted as a part of the final year **B.Tech** requirement at  
 **DAV Institute of Engineering and Technology, Daltonganj**, under **Jharkhand University of Technology, Ranchi**.
 
-### ✅ Signatories:
+### ✅ **Signatories**
 
-- **Principal** – *Dr. Sanjeev Kumar Shrivastava*
-- **Head of Department (CSE)** – *Mr. Vivek*
-- **Project Supervisor** – *Mr. Vivek (Asst. Professor, CSE)*
-- **Internal Expert** – *Mrs. Jyoti Kumari*
+- **Principal** – *Dr. Sanjeev Kumar Shrivastava*  
+- **Head of Department (CSE)** – *Mr. Vivek*  
+- **Project Supervisor** – *Mr. Vivek (Asst. Professor, CSE)*  
+- **Internal Expert** – *Mrs. Jyoti Kumari*  
 - **External Expert** – *Mr. Panjeet Kumar Alanka*
 
 ---
 
-## 👨‍💻 Team Members
+## 👨‍💻 **Team Members**
 
-| Name           | Roll No.                      |
-|----------------|---------------------------|
-| Bablu Pandey   | 21020440006    |
-| Dolly Gupta    | 21020440008   |
-| Kajal Kumari  | 21020440012    |
-| Nitish Gupta    | 21020440018   |
+| **Name**         | **Roll No.**     |
+|------------------|------------------|
+| **Bablu Pandey** | 21020440006      |
+| **Dolly Gupta**  | 21020440008      |
+| **Kajal Kumari** | 21020440012      |
+| **Nitish Gupta** | 21020440018      |
 
 ---
 
-## 🙏 Acknowledgment
+## 🙏 **Acknowledgment**
 
 We sincerely thank our respected guide **Mr. Vivek Sir** for his constant support, mentorship, and encouragement throughout the project.  
-We extend our gratitude to the faculty members, evaluators, and institute for providing the necessary resources and motivation.
+We extend our gratitude to the **faculty members**, **evaluators**, and the **institute** for providing the necessary resources and motivation.
 
-Special thanks to our classmates, friends, and families whose backing made this project successful.
+Special thanks to our **classmates**, **friends**, and **families** whose backing made this project successful.
 
 ---
 
-## 🏁 Conclusion
+## 🏁 **Conclusion**
 
 **EliteMeet** demonstrates the potential of modern web technologies to enable seamless and secure virtual interaction.  
-With the successful implementation of core features like authentication and video calling, this project is ready to evolve into a full-fledged real-time communication platform.
+With the successful implementation of core features like **authentication** and **video calling**, this project is ready to evolve into a full-fledged real-time communication platform.
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 **Connect with Me**
 
 👤 **Dolly Gupta**  
-📧 *dollygupta362@gmail.com*  
-🔗 [LinkedIn]([https://www.linkedin.com/in/satyam-kumar-5a229222b])
+📧 **dollygupta362@gmail.com**  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/dolly-gupta-3b54b8229)
 
 ---
 
-## 📝 License
+## 📝 **License**
 
-This project is built for academic learning purposes. You are free to explore, modify, and extend it with proper credit to the original contributors.
+This project is built for **academic learning purposes**.  
+You are free to **explore**, **modify**, and **extend** it with proper credit to the original contributors.
 
 ---
-
